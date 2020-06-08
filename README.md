@@ -4,6 +4,8 @@ The NEC PSL010001 is a 364 Wh battery containing a 12S4P configuration of A123 A
 
 In 2020, hundreds of used modules became available at a very low price point. However, although the battery module will accept a charge, discharging the battery requires communication with the module's BMS. Details on the communication scheme are not generally known.
 
+![Overview](images/overview.JPG)
+
 ## Goal
 
-This repository aims to collect documentation about the module's BMS, with the overarching goal of learning how to communicate with it and enable discharge.
+This repository aims to collect documentation about the module's BMS, with the overarching goal of learning how to communicate with it, enable discharge and retrieve module health information.
