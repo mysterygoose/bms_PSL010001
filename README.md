@@ -9,3 +9,15 @@ In 2020, hundreds of used modules became available at a very low price point. Ho
 ## Goal
 
 This repository aims to collect documentation about the module's BMS, with the overarching goal of learning how to communicate with it, enable discharge and retrieve module health information.
+
+## Component identification
+
+### External connectors
+
+![External connectors](images/connector_view_highlights.JPG)
+
+| Reference | Part # | Description |
+| --- | --- | --- |
+| J1-1 | Amphenol RADSOK PGY 5.7mm | Battery negative terminal |
+| J1-2 | Amphenol RADSOK PGY 5.7mm | Battery positive terminal |
+| J2 | Molex Micro-Fit 3 BMI 0444281001 | Communication interface |
