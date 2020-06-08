@@ -20,4 +20,4 @@ This repository aims to collect documentation about the module's BMS, with the o
 | --- | --- | --- |
 | J1-1 | Amphenol RADSOK PGY 5.7mm | Battery negative terminal |
 | J1-2 | Amphenol RADSOK PGY 5.7mm | Battery positive terminal |
-| J2 | Molex Micro-Fit 3 BMI 0444281001 | Communication interface |
+| J2 | Molex Micro-Fit 3 BMI 0444281003 | Communication interface |
