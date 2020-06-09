@@ -8,7 +8,7 @@ In 2020, hundreds of used modules became available at a very low price point. Ho
 
 ## Goal
 
-This repository aims to collect documentation about the module's BMS, with the overarching goal of learning how to communicate with it, enable discharge and retrieve module health information.
+This repository aims to collect documentation about the module's BMS, with the end goal of learning how to communicate with it, enable discharge and retrieve module health information.
 
 ## Component identification
 
@@ -21,3 +21,13 @@ This repository aims to collect documentation about the module's BMS, with the o
 | J1-1 | Amphenol RADSOK PGY 5.7mm | Battery negative terminal |
 | J1-2 | Amphenol RADSOK PGY 5.7mm | Battery positive terminal |
 | J2 | Molex Micro-Fit 3 BMI 0444281003 | Communication interface |
+
+### Internal components
+
+![BMS board](images/bms_highlights.JPG)
+
+| Reference | Part # | Description |
+| --- | --- | --- |
+| IC1 | Microchip PIC24FJ64GA104  | Microcontroller |
+| IC9, IC10 | Texas Instruments BQ76PL536A | 3-6s battery managament IC |
+| J8 | | Appears to be an ICSP header for IC1 |
